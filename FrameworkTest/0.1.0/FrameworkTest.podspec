@@ -23,10 +23,10 @@ TODO: Add long description of the pod here.
   s.swift_version = '5.0'
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'MyCocoapodsLibrary/Classes/**/*'
+  s.source_files = 'FrameworkTest/Classes/**/*'
   
    s.resource_bundles = {
-     'Resources' => ['MyCocoapodsLibrary/Assets/flower.jpg']
+     'Resources' => ['FrameworkTest/Assets/flower.jpg']
    }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
